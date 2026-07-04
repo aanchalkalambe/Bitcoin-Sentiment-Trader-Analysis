@@ -114,4 +114,5 @@ The project includes:
 
 **Aanchal Kalambe**
 
-AI Engineering Intern
+
+Email: kalambeaanchal@gmail.com
